@@ -54,7 +54,7 @@ Resources can be found in Materials folder, with following resources:
 
 - Install and load packages and all dependencies
 
-  ```pip install -r requirements.txt ```
+  ```install packages listed in requirements.txt ```
   
 - Read in COVID-19_Death_Counts.csv and Vaccination-data-CDC.csv datasets to be cleaned. Run Cleaning_Covid_Death_Data.ipynb and vaccine_data_cleaning.ipynb
   
