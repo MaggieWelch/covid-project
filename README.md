@@ -15,13 +15,13 @@ This project was developed using Python and includes key functionalities such as
 - seaborn
 - scipy
 - statsmodels
-  
-## Documentation Map
 
 LICENSE
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/carolinehagood/covid-project/blob/main/LICENSE) file for details.
 
+## Documentation Map
+Resources can be found in Materials folder, with following resources:
 1. Data
    - data/COVID-19_Death_Counts.csv
    - data/Covid_deaths_cleaned.csv
@@ -29,16 +29,12 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
    - data/Vaccination-data-CDC.csv
    - data/vaccine_data_cleaned.csv
    - data/Data appendix.pdf
-
-
 2. Scripts
    - scripts/Cleaning_Covid_Death_Data.ipynb
    - scripts/Cleaning_vaccine_data.ipynb
    - scripts/Combining_data.ipynb
    - scripts/Final_Data_Analysis.ipynb
-   - scripts/MasterScript.ipynb
-  
-     
+   - scripts/MasterScript.ipynb  
 3. Output
    - output/Covid Deaths 2020.png
    - output/Covid Deaths 2021.png
@@ -54,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - Fork this repository, and clone forked repository in terminal of workspace
 
-  ```! git clone https://github.com/carolinehagood/covid-project.git```
+  ```! git clone https://github.com/MaggieWelch/covid-project.git```
 
 - Install and load packages and all dependencies
 
